@@ -111,3 +111,5 @@ C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3
 C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3.Migrations.Initial.resources
 C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3.csproj.GenerateResource.Cache
 C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3.Migrations.Rating.resources
+C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3.Migrations.DataAnnotations.resources
+C:\Users\rparde\Documents\Projects\MVCMovieProject\MVCMovie3\obj\Debug\MVCMovie3.Migrations.DataAnnotations1.resources
